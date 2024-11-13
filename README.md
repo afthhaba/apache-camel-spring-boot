@@ -30,7 +30,7 @@ The Camel environment, or CamelContext, is a Spring bean that can be declared in
 * Maven 3
 * Java 11
 * Spring boot 2.6.3
-* hibernate 5
+* hibernate 5 and JPA
 * Mysql 8 
 * org.projectlombok ( enrich java entity by auto-generating Java bytecode )
 
