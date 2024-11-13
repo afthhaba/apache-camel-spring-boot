@@ -15,7 +15,7 @@ The application
 * Exposes http endpoint on 8080 port
 * Can accept Rest post messages with a name and address information and store these messages in a database.
 * HandleS a timer that
-    * Uses JPA native equities to retrieve that information,
+    * Uses JPA native queries to retrieve that information,
     * Process that information
     * Write that information into a file output.
     * Write message to active MQ QUEUE.
